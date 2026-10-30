@@ -1,4 +1,3 @@
-<img width="699" height="439" alt="image" src="https://github.com/user-attachments/assets/47b50721-2bcc-41a2-8d95-ca39f28764ee" /># IS_HERNANDEZZ
 Repositorio prueba
 #Practicas 2 2o parcial IS HERNANDEZ
 
